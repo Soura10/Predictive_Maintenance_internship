@@ -23,6 +23,7 @@ list_of_files=[
     "setup.py",
     "app.py",
     "requirements.txt",
+    "init_setup.sh",
     f"notebook/Trials.ipynb",
     f"notebook/EDA.ipynb"
      
